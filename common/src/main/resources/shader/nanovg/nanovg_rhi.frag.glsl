@@ -1,4 +1,4 @@
-#version 460
+#version 430
 
 layout(binding = 2) uniform sampler2D tex;
 layout(binding = 3) uniform sampler2D fontTex;
